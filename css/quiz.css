@@ -1,0 +1,11 @@
+div.p1 {
+
+	display: inline-block;
+	position: left;
+}
+
+div .p2 {
+
+	display:inline-block;
+	position: right;
+}
